@@ -1,6 +1,6 @@
-## this is jsm
+## hello Git
 ## just to test
 ## list 
 
---add samming
+--this is comming from created
 --i am adding somthing `somthing`
